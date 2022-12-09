@@ -1,4 +1,4 @@
-dwarffortress/*
-dwarffortress/raw
-dwarffortress/sdl
+!dwarffortress/*
+!dwarffortress/raw
+!dwarffortress/sdl
 
