@@ -1,0 +1,74 @@
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 5333333
+ Seed: 4eoycyCMIyyQqqycK0s8
+ History Seed: 8gYYkGEuG4AwGseUcgGE
+ Name Seed: ce24eCYA0WGkOaUSoq2U
+ Creature Seed: CQg0qsYCo2cGoKWiKAGs
+Generating world using parameter set CREATE WORLD NOW = 4133333
+ Seed: XnwCi8eiVauX41rY8aV1
+ History Seed: Nhxe26b2tMlhsMQVZ1xw
+ Name Seed: iCTSFL1yfaoerycQhl53
+ Creature Seed: l5d5fx3iDKki8cle6rgh
+** Starting New Outpost **
+Enthep Atekgal, Human Bard is visiting.
+You have struck pink garnet!
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 4333333
+ Seed: hx4yj4mAa2X9P1JZxe1e
+ History Seed: VCC5w2vwWvjO7YBuZ1Py
+ Name Seed: pxWLlgJ1xC1Ke3hN9712
+ Creature Seed: QpGiMa0g8IM7OLIM2j7O
+** Starting New Outpost **
+There is nothing to catch in the central swamps.
+x2
+There is nothing to catch in the northern swamps.
+It has started raining.
+Dåshmab Zonustir, expedition leader cancels Fertilize Field: Needs potash.
+x2
+x3
+x4
+x5
+x6
+The weather has cleared.
+Kadìl Nobdomas has become a Carpenter.
+Doren EdimalÜth has become a Recruit.
+Dåshmab Zonustir has become a expedition leader.
+Monom Thadfikod has become a Recruit.
+Kadìl Nobdomas has become a Recruit.
+Domas Sobçrvutok has become a Recruit.
+Ber Solonärith has become a Recruit.
+Athel ïnulotil has become a militia commander.
+Doren EdimalÜth has become a Fisherdwarf.
+Dåshmab Zonustir has become a expedition leader.
+Monom Thadfikod has become a Fish Cleaner.
+Kadìl Nobdomas has become a Carpenter.
+Domas Sobçrvutok has become a Jeweler.
+Ber Solonärith has become a Stoneworker.
+Athel ïnulotil has become a militia commander.
+It has started raining.
+The weather has cleared.
+It has started raining.
+The weather has cleared.
+Doren EdimalÜth, Fisherdwarf cancels Catch Live Fish: Need empty trap.
+x2
+x3
+Monom Thadfikod, Fish Cleaner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+x2
+x3
+Dåshmab Zonustir has become a expedition leader.
+Doren EdimalÜth has become a Recruit.
+Dåshmab Zonustir has become a expedition leader.
+Monom Thadfikod has become a Recruit.
+Kadìl Nobdomas has become a Recruit.
+Domas Sobçrvutok has become a Recruit.
+Ber Solonärith has become a Recruit.
+Athel ïnulotil has become a militia commander.
+It is now summer.
+Doren EdimalÜth has become a Fisherdwarf.
+Dåshmab Zonustir has become a expedition leader.
+Monom Thadfikod has become a Fish Cleaner.
+Kadìl Nobdomas has become a Carpenter.
+Domas Sobçrvutok has become a Jeweler.
+Ber Solonärith has become a Stoneworker.
+Athel ïnulotil has become a militia commander.
+There is nothing to catch in the northeastern swamps.

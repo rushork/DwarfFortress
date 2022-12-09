@@ -1,0 +1,1 @@
+path fail: plump helmet man,144,106,53 -> 191,187,52: Id #17720:Path Goal Seek Station:Station Head for Edge at 191,187,52
