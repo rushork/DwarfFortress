@@ -1,1 +1,7 @@
 path fail: plump helmet man,144,106,53 -> 191,187,52: Id #17720:Path Goal Seek Station:Station Head for Edge at 191,187,52
+path fail: cave crocodile,86,189,129 -> 88,191,131: Id #17947:Path Goal Chase Opponent Flood:Station None at 88,191,131
+MOUNTAIN trying to generate musical form without speech or instruments
+Impoverished Word Selector
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (fungiwood barrel)
+path fail: dwarf,Return Kill,124,2,78 -> 127,5,80: Id #20412:Path Goal Grab Kill:Station Wagon at 95,96,77
+path fail: dwarf,Construct Building,37,91,76 -> 36,101,76: Id #20412:Path Goal Main Job Building:Station Mill Building at 27,88,77
